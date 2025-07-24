@@ -27,6 +27,6 @@ print(len(genres))
 print("Second Item:", genres[1])
 print("Second to the last:", genres[-2])
 
-
+print(genres)
 
 
